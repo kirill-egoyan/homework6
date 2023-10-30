@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\bin\Debug\net6.0\num41.exe
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\bin\Debug\net6.0\num41.deps.json
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\bin\Debug\net6.0\num41.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\bin\Debug\net6.0\num41.dll
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\bin\Debug\net6.0\num41.pdb
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.dll
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\refint\num41.dll
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.pdb
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\num41.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Homework6\hw6\num41\obj\Debug\net6.0\ref\num41.dll
